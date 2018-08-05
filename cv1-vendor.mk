@@ -93,7 +93,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/cv1/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/cv1/proprietary/lib/hw/sensors.msm8937.so:system/lib/hw/sensors.msm8937.so \
     vendor/lge/cv1/proprietary/lib/hw/vibrator.default.so:system/lib/hw/vibrator.default.so \
-    vendor/lge/cv1/proprietary/lib/libHDR.so:system/lib/libHDR.so \
     vendor/lge/cv1/proprietary/lib/libSJlowlight.so:system/lib/libSJlowlight.so \
     vendor/lge/cv1/proprietary/lib/libfilm_emulation.so:system/lib/libfilm_emulation.so \
     vendor/lge/cv1/proprietary/lib/libgnsspps.so:system/lib/libgnsspps.so \
