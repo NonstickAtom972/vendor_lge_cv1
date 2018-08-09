@@ -110,6 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/cv1/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lge/cv1/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/lge/cv1/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/lge/cv1/proprietary/lib/libatd_corelib.so:system/lib/libatd_corelib.so\
     vendor/lge/cv1/proprietary/vendor/lib/hw/activity_recognition.msm8937.so:system/vendor/lib/hw/activity_recognition.msm8937.so \
     vendor/lge/cv1/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/lge/cv1/proprietary/vendor/lib/libDRPlugin.so:system/vendor/lib/libDRPlugin.so \
